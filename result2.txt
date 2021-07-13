@@ -1,0 +1,12 @@
+2 README.md
+13 firstscript.sh
+11 forLoop.sh
+8 forLoop2.sh
+5 hi_machine.sh
+21 ifCondition.sh
+10 ifCondition2.sh
+400 install_nvm.sh
+23 myread.sh
+8 readEcho1.sh
+15 readEcho2.sh
+1 testdir/test.txt
